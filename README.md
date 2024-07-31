@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @DEIVISON244
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-DEIVISON244/DEIVISON244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+                                                 boa vindo ao meu perfil
+                                                 
+                                                 meu nome é Deivison william
+
+                                                 >Etou estudando na Alura
+                                                 >estou me desenvouvendo na linguagem javascript
+                                                 >Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvouvidos 
+
+
+                                                 <> Você pode entrar em contato comigo
+                                                    00001102113700sp@al.educacao.sp.gov.br
